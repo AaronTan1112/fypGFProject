@@ -5,7 +5,27 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_NPC.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_NPC_Cont.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_NPC_BT.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_NPC_BB.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PN/R2XDMS8TE6HJF2ZCSY6HZX.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/QS/OLMGBORRDKTU66CIW05CAV.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/E5/DSEK7AKTF6NYSQ9HCMO2W0.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_BTTask_BlueprintBase_Wander.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_AnimBlueprint.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/w_NPC.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/p_NPC.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/p_NPC_Cont.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/p_NPC_BT.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/p_NPC_BB.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Z3/JIVKZLEJOSGZK8ILGISWJF.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/p_BTTask_BlueprintBase_Pursuit.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/p_BTTask_BlueprintBase_TrackPL.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/wNPC.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/wNPCCont.uasset"
 			]
 		}
 	]
