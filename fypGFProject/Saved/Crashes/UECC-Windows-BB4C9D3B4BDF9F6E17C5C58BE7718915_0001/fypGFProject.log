@@ -3419,30 +3419,3 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.16-06.56.51:028][828]LogSlate: Took 0.005890 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
 [2023.06.16-06.56.54:245][ 87]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/PursuitNPC/p_NPC.p_NPC
 [2023.06.16-06.56.54:245][ 87]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2023.06.16-06.56.56:247][ 87]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' exceeded budget of 2.000000s, reporting...
-[2023.06.16-06.57.23:629][ 87]LogAudioMixer: Warning: AudioMixerPlatformInterface Timeout [27073ms] waiting for h/w. InstanceID=1
-[2023.06.16-06.57.23:629][ 87]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' report submitted, and took 0.049978s
-[2023.06.16-06.57.23:748][ 87]LogStall: Stall detector 'UAssetEditorSubsystem::OpenEditorForAsset' complete in 0.000728s (0.166168s overbudget)
-[2023.06.16-06.57.23:765][ 87]LogAudioMixer: Display: FMixerNullCallback: Simulating a h/w device callback at [21ms], ThreadID=4808
-[2023.06.16-06.57.23:910][ 88]LogAudioMixer: Display: Successful Swap new Device is (NumChannels=8, SampleRate=48000, DeviceID={0.0.0.00000000}.{bfd1d80e-6e7c-4fd7-8b89-7a2a98f20627}, Name=Speakers (2- Logitech G430 Gaming Headset)), Reason=AudioMixerPlatformInterface. Timeout waiting for h/w., InstanceID=1, DurationMS=69.02
-[2023.06.16-06.57.23:910][ 88]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=8, Samples=8192, InstanceID=1
-[2023.06.16-06.57.23:912][ 88]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=1
-[2023.06.16-06.57.50:613][168]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
-[2023.06.16-06.57.50:613][168]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
-[2023.06.16-06.57.50:641][168]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/PursuitNPC/p_NPC.p_NPC
-[2023.06.16-06.57.50:642][168]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2023.06.16-06.58.00:969][748]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
-[2023.06.16-06.59.03:026][337]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/AI/PursuitNPC/p_NPC_Cont.p_NPC_Cont
-[2023.06.16-06.59.03:027][337]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
-[2023.06.16-06.59.07:778][818]LogViewport: Scene viewport resized to 1141x877, mode Windowed.
-[2023.06.16-06.59.17:440][948]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
-[2023.06.16-06.59.17:442][948]LogFileHelpers: InternalPromptForCheckoutAndSave started...
-[2023.06.16-06.59.17:473][948]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AI/PursuitNPC/p_NPC_Cont" FILE="../../../../UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/p_NPC_Cont.uasset" SILENT=true
-[2023.06.16-06.59.17:488][948]LogSavePackage: Moving output files for package: /Game/AI/PursuitNPC/p_NPC_Cont
-[2023.06.16-06.59.17:489][948]LogSavePackage: Moving '../../../../UE (Project Locations)/fypGFProject/fypGFProject/Saved/p_NPC_ContAB18F11144ACA9B9A3B4CB994A6424BC.tmp' to '../../../../UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/PursuitNPC/p_NPC_Cont.uasset'
-[2023.06.16-06.59.17:496][948]LogFileHelpers: InternalPromptForCheckoutAndSave took 53 ms (total: 23.4 sec)
-[2023.06.16-06.59.17:502][948]AssetCheck: New page: Asset Save: p_NPC_Cont
-[2023.06.16-06.59.17:503][948]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/AI/PursuitNPC/p_NPC_Cont.p_NPC_Cont
-[2023.06.16-06.59.18:858][ 99]BlueprintLog: New page: Compile p_NPC_Cont
-[2023.06.16-06.59.18:918][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
-[2023.06.16-06.59.19:251][130]LogUObjectHash: Compacting FUObjectHashTables data took   1.53ms
