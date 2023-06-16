@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/BS/DPJ4VC9923DHXW799S1N7O.uasset",
+				"D:/fypGFProject/fypGFProject/Content/Characters/MainCharacter/MCharacterModel/YumeTestRigModel.uasset",
+				"D:/fypGFProject/fypGFProject/Content/Characters/MainCharacter/MCharacterModel/Material__25.uasset",
+				"D:/fypGFProject/fypGFProject/Content/Characters/MainCharacter/MCharacterModel/YumeTestRigModel_Skeleton.uasset",
+				"D:/fypGFProject/fypGFProject/Content/Characters/MainCharacter/MCharacterModel/YumeTestRigModel_PhysicsAsset.uasset",
+				"D:/fypGFProject/fypGFProject/Content/Characters/MainCharacter/MCharacterAnimation/Animation_Walk.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/StarterContent/Architecture/Floor_400x400.uasset"
 			]
 		}
