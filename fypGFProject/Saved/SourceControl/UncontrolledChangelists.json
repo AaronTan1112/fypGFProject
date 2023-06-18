@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"F:/EpicGames/UE_5.1/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/PlayerHUD.uasset",
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/VV/55NN39TGLFMOZC327I4Y8B.uasset",
