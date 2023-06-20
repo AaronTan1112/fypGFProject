@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Program Files/Epic Games/UE_5.1/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
+				"C:/Users/user/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"F:/EpicGames/UE_5.1/Engine/Content/EditorBlueprintResources/StandardMacros.uasset",
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/PlayerHUD.uasset",
