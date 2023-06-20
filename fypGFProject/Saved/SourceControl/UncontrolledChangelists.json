@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_NPC.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/PN/R2XDMS8TE6HJF2ZCSY6HZX.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/AI/Enemy1NPC/e1_ABP.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_NPC.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/WanderNPC/w_NPC_Cont.uasset",
