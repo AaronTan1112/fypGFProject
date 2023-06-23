@@ -3344,3 +3344,115 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.23-14.18.44:147][669]LogFileHelpers: InternalPromptForCheckoutAndSave took 86 ms (total: 2.35 sec)
 [2023.06.23-14.18.44:151][669]AssetCheck: New page: Asset Save: World1
 [2023.06.23-14.18.44:151][669]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestLevel/World1.World1
+[2023.06.23-14.22.24:322][727]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2023.06.23-14.22.24:329][727]LogContentBrowser: Creating deferred item: NewFolder
+[2023.06.23-14.22.24:337][728]LogContentBrowser: Renaming the item being created (Deferred Item: NewFolder).
+[2023.06.23-14.22.31:710][608]LogContentBrowser: Attempting asset rename: NewFolder -> PlaceholderBridge
+[2023.06.23-14.22.31:710][608]LogContentBrowser: End creating deferred item NewFolder
+[2023.06.23-14.23.28:289][143]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\limzi\Downloads\kenney_nature-kit\Models\FBX format\bridge_center_woodRound.fbx)
+[2023.06.23-14.23.28:293][143]LogFbx: Loading FBX Scene from C:\Users\limzi\Downloads\kenney_nature-kit\Models\FBX format\bridge_center_woodRound.fbx
+[2023.06.23-14.23.28:297][143]LogFbx: FBX Scene Loaded Succesfully
+[2023.06.23-14.23.30:128][143]LogSlate: Window 'FBX Import Options' being destroyed
+[2023.06.23-14.23.30:236][143]FBXImport: Warning: No smoothing group information was found in this FBX scene.  Please make sure to enable the 'Export Smoothing Groups' option in the FBX Exporter plug-in before exporting the file.  Even for tools that don't support smoothing groups, the FBX Exporter will generate appropriate smoothing data at export-time so that correct vertex normals can be inferred while importing. 
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: ================================================
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Total job queries 291, among them cache hits 42 (14.43%)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Tracking 237 distinct input hashes that result in 146 distinct outputs (61.60%)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: RAM used: 1.83 MB (0.00 GB) of 1638.40 MB (1.60 GB) budget. Usage: 0.11%
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Shaders Compiled: 112
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Jobs assigned 112, completed 112 (100.00%)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Average time worker was idle: 529.85 s
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.53 s
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Job execution time: average 0.55 s, max 0.86 s
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Job life time (pending + execution): average 0.61 s, max 0.97
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 14.87 s
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Jobs were issued in 112 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Average processing rate: 7.53 jobs/sec
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Total thread time: 40.69 s
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Total thread preprocess time: 2.61 s
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Percentage time preprocessing: 6.42%
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Effective parallelization: 2.74 (times faster than compiling all shaders on one thread). Compare with number of workers: 10
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:        TBasePassPSFCachedPointIndirectLightingPolicySkylight (compiled    2 times, average 0.47 sec, max 0.49 sec, min 0.45 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:                TBasePassPSFCachedPointIndirectLightingPolicy (compiled    2 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:      TBasePassPSFPrecomputedVolumetricLightmapLightingPolicy (compiled    2 times, average 0.45 sec, max 0.46 sec, min 0.44 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:       TBasePassPSFCachedVolumeIndirectLightingPolicySkylight (compiled    2 times, average 0.44 sec, max 0.46 sec, min 0.42 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:               TBasePassPSFCachedVolumeIndirectLightingPolicy (compiled    2 times, average 0.44 sec, max 0.45 sec, min 0.42 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 23.43% of total time (compiled   22 times, average 0.43 sec, max 0.61 sec, min 0.36 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.05% of total time (compiled   22 times, average 0.39 sec, max 0.48 sec, min 0.33 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:                                                 FLumenCardVS - 12.25% of total time (compiled   14 times, average 0.36 sec, max 0.44 sec, min 0.30 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 7.95% of total time (compiled   14 times, average 0.23 sec, max 0.30 sec, min 0.19 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: TBasePassPSFPrecomputedVolumetricLightmapLightingPolicySkylight - 7.19% of total time (compiled    7 times, average 0.42 sec, max 0.44 sec, min 0.40 sec)
+[2023.06.23-14.23.30:402][147]LogShaderCompilers: Display: ================================================
+[2023.06.23-14.23.32:907][413]LogSlate: Window 'Message Log' being destroyed
+[2023.06.23-14.23.32:912][413]LogSlate: Window 'Message Log' being destroyed
+[2023.06.23-14.23.43:210][350]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound
+[2023.06.23-14.23.43:210][350]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound
+[2023.06.23-14.23.43:210][350]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound as actor: StaticMeshActor /Game/TestLevel/World1.World1:PersistentLevel.StaticMeshActor_525
+[2023.06.23-14.23.53:543][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound
+[2023.06.23-14.23.53:543][497]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound
+[2023.06.23-14.23.53:543][497]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound as actor: StaticMeshActor /Game/TestLevel/World1.World1:PersistentLevel.StaticMeshActor_526
+[2023.06.23-14.23.54:218][573]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound
+[2023.06.23-14.23.54:220][573]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound
+[2023.06.23-14.23.54:221][573]LogActorFactory: Actor Factory spawned StaticMesh /Game/TestLevel/PlaceholderBridge/bridge_center_woodRound.bridge_center_woodRound as actor: StaticMeshActor /Game/TestLevel/World1.World1:PersistentLevel.StaticMeshActor_527
+[2023.06.23-14.24.29:288][526]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.23-14.24.50:281][996]Cmd: TRANSACTION UNDO
+[2023.06.23-14.24.50:281][996]LogEditorTransaction: Undo Scale Elements
+[2023.06.23-14.24.55:895][598]Cmd: EDIT COPY
+[2023.06.23-14.24.56:112][623]Cmd: EDIT PASTE
+[2023.06.23-14.24.58:928][954]Cmd: EDIT CUT
+[2023.06.23-14.24.58:933][954]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.23-14.24.58:939][954]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2023.06.23-14.24.58:940][954]LogEditorActor: Deleted 1 Actors (0.012 secs)
+[2023.06.23-14.25.02:696][391]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.23-14.25.12:929][600]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.23-14.25.19:935][414]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.23-14.25.32:235][838]Cmd: EDIT COPY
+[2023.06.23-14.25.32:418][859]Cmd: EDIT PASTE
+[2023.06.23-14.25.35:419][213]Cmd: EDIT COPY
+[2023.06.23-14.25.35:603][234]Cmd: EDIT PASTE
+[2023.06.23-14.25.39:294][663]Cmd: DELETE
+[2023.06.23-14.25.39:294][663]Cmd: ACTOR DELETE
+[2023.06.23-14.25.39:298][663]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.23-14.25.39:303][663]LogUObjectHash: Compacting FUObjectHashTables data took   0.29ms
+[2023.06.23-14.25.39:304][663]LogEditorActor: Deleted 1 Actors (0.010 secs)
+[2023.06.23-14.25.40:737][827]Cmd: DELETE
+[2023.06.23-14.25.40:737][827]Cmd: ACTOR DELETE
+[2023.06.23-14.25.40:741][827]LogEditorActor: Deleted Actor: StaticMeshActor
+[2023.06.23-14.25.40:746][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2023.06.23-14.25.40:748][827]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2023.06.23-14.26.10:049][269]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.23-14.26.15:823][951]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2023.06.23-14.26.16:646][ 47]Cmd: TRANSACTION UNDO
+[2023.06.23-14.26.16:646][ 47]LogEditorTransaction: Undo Rotate Elements
+[2023.06.23-14.26.17:499][ 92]Cmd: TRANSACTION UNDO
+[2023.06.23-14.26.17:500][ 92]LogEditorTransaction: Undo Move Elements
+[2023.06.23-14.26.24:794][943]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.23-14.26.24:860][943]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2023.06.23-14.26.24:902][943]LogSavePackage: Moving output files for package: /Game/TestLevel/World1
+[2023.06.23-14.26.24:903][943]LogSavePackage: Moving '../../../../../../Users/limzi/OneDrive/Desktop/FYP2/fypGFProject/fypGFProject/Saved/World13ED1FDE342643FC1F9C1778D688ABF04.tmp' to '../../../../../../Users/limzi/OneDrive/Desktop/FYP2/fypGFProject/fypGFProject/Content/TestLevel/World1.umap'
+[2023.06.23-14.26.24:907][943]LogFileHelpers: No new changes to save!
+[2023.06.23-14.26.24:907][943]LogFileHelpers: Saving map 'World1' took 0.056
+[2023.06.23-14.26.24:921][943]LogFileHelpers: InternalPromptForCheckoutAndSave took 127 ms (total: 2.47 sec)
+[2023.06.23-14.26.24:925][943]AssetCheck: New page: Asset Save: World1
+[2023.06.23-14.26.24:925][943]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestLevel/World1.World1
+[2023.06.23-14.27.19:874][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.23-14.27.19:938][ 50]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2023.06.23-14.27.19:981][ 50]LogSavePackage: Moving output files for package: /Game/TestLevel/World1
+[2023.06.23-14.27.19:981][ 50]LogSavePackage: Moving '../../../../../../Users/limzi/OneDrive/Desktop/FYP2/fypGFProject/fypGFProject/Saved/World1D2DA56034211402B25E55F9051C89F5E.tmp' to '../../../../../../Users/limzi/OneDrive/Desktop/FYP2/fypGFProject/fypGFProject/Content/TestLevel/World1.umap'
+[2023.06.23-14.27.19:985][ 50]LogFileHelpers: No new changes to save!
+[2023.06.23-14.27.19:985][ 50]LogFileHelpers: Saving map 'World1' took 0.054
+[2023.06.23-14.27.19:990][ 50]LogFileHelpers: InternalPromptForCheckoutAndSave took 115 ms (total: 2.59 sec)
+[2023.06.23-14.27.19:994][ 50]AssetCheck: New page: Asset Save: World1
+[2023.06.23-14.27.19:994][ 50]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestLevel/World1.World1
+[2023.06.23-14.28.20:174][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.23-14.28.20:239][ 99]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2023.06.23-14.28.20:279][ 99]LogSavePackage: Moving output files for package: /Game/TestLevel/World1
+[2023.06.23-14.28.20:279][ 99]LogSavePackage: Moving '../../../../../../Users/limzi/OneDrive/Desktop/FYP2/fypGFProject/fypGFProject/Saved/World139CC256B48365141C181B19BF546FBEF.tmp' to '../../../../../../Users/limzi/OneDrive/Desktop/FYP2/fypGFProject/fypGFProject/Content/TestLevel/World1.umap'
+[2023.06.23-14.28.20:284][ 99]LogFileHelpers: No new changes to save!
+[2023.06.23-14.28.20:284][ 99]LogFileHelpers: Saving map 'World1' took 0.053
+[2023.06.23-14.28.20:299][ 99]LogFileHelpers: InternalPromptForCheckoutAndSave took 124 ms (total: 2.71 sec)
+[2023.06.23-14.28.20:302][ 99]AssetCheck: New page: Asset Save: World1
+[2023.06.23-14.28.20:302][ 99]LogContentValidation: Display: Validating /Script/Engine.World /Game/TestLevel/World1.World1
