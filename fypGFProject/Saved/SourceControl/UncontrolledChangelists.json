@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/NewBlueprint.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset",
 				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P3/8KQKYUQ3JLDTCKAR270K0G.uasset"
 			]
 		}
