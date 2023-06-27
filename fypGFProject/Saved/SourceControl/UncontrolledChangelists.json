@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/Z3/JIVKZLEJOSGZK8ILGISWJF.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/StarterContent/Architecture/Floor_400x400.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/TestLevel/World1V2.umap",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/TestLevel/SkyboxW1V2/stylized_ghibli_cloud_skybox.uasset",
@@ -28,7 +29,6 @@
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/Characters/Yume_Enemy/Enemy/Enemy1ABP.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/TestLevel/SkyboxW1V2/anime_art_style_stylized_ghibli_cloud_skybox_Mat.uasset",
-				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/TestLevel/SkyboxW1V2/anime_art_style_stylized_ghibli_cloud_skybox.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/TestLevel/SkyboxW1V2/NewBlueprint.uasset",
 				"D:/fypGFProject/fypGFProject/Content/Characters/Yume_Enemy/Yume/Animation_Test_Model_For_Yume_PhysicsAsset.uasset",
 				"D:/fypGFProject/fypGFProject/Content/Characters/Yume_Enemy/Yume/Animation_Test_Model_For_Yume_Skeleton.uasset",
