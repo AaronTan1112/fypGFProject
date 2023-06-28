@@ -3605,3 +3605,405 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.28-10.18.09:667][291]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/Hit.Hit took 0.030787 sec, no shader worker used.
 [2023.06.28-10.18.09:715][291]AssetCheck: New page: Asset Save: Hit
 [2023.06.28-10.18.09:715][291]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.19.58:069][688]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2023.06.28-10.20.54:428][ 99]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.20.54:428][ 99]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.20.54:432][ 99]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_4
+[2023.06.28-10.20.54:433][ 99]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_4
+[2023.06.28-10.20.54:828][109]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.20.54:828][109]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.20.54:832][109]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_5
+[2023.06.28-10.20.54:832][109]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_5
+[2023.06.28-10.21.07:907][735]Cmd: DELETE
+[2023.06.28-10.21.07:907][735]Cmd: ACTOR DELETE
+[2023.06.28-10.21.07:913][735]LogEditorActor: Deleted Actor: NiagaraActor
+[2023.06.28-10.21.07:964][735]LogUObjectHash: Compacting FUObjectHashTables data took   2.35ms
+[2023.06.28-10.21.07:970][735]LogEditorActor: Deleted 1 Actors (0.063 secs)
+[2023.06.28-10.25.59:749][937]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.25.59:749][937]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.25.59:750][937]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_6
+[2023.06.28-10.25.59:750][937]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_6
+[2023.06.28-10.26.00:125][959]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.26.00:125][959]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.26.00:126][959]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_7
+[2023.06.28-10.26.00:128][959]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_7
+[2023.06.28-10.26.07:093][371]Cmd: DELETE
+[2023.06.28-10.26.07:093][371]Cmd: ACTOR DELETE
+[2023.06.28-10.26.07:096][371]LogEditorActor: Deleted Actor: NiagaraActor
+[2023.06.28-10.26.07:133][371]LogUObjectHash: Compacting FUObjectHashTables data took   1.38ms
+[2023.06.28-10.26.07:137][371]LogEditorActor: Deleted 1 Actors (0.043 secs)
+[2023.06.28-10.27.14:415][270]LogSlate: Window 'Pick a starting point for your system' being destroyed
+[2023.06.28-10.27.14:427][270]LogContentBrowser: Deferred new asset file creation: NewNiagaraSystem
+[2023.06.28-10.27.14:435][270]LogContentBrowser: Creating deferred item: NewNiagaraSystem
+[2023.06.28-10.27.14:458][271]LogContentBrowser: Renaming the item being created (Deferred Item: NewNiagaraSystem).
+[2023.06.28-10.27.35:561][523]LogContentBrowser: Attempting asset rename: NewNiagaraSystem -> AutoAttackTrail
+[2023.06.28-10.27.35:647][523]LogContentBrowser: End creating deferred item NewNiagaraSystem
+[2023.06.28-10.27.35:659][523]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.054088 sec, no shader worker used.
+[2023.06.28-10.27.35:677][524]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.051471 sec, no shader worker used.
+[2023.06.28-10.27.38:771][707]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.27.38:997][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.28-10.27.39:110][707]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.240043 sec, no shader worker used.
+[2023.06.28-10.27.39:221][707]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.28-10.27.39:344][707]LogViewport: Scene viewport resized to 458x420, mode Windowed.
+[2023.06.28-10.27.41:515][713]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.27.54:923][742]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000591F4102060) on the [0x00000591DB985280, 3D] queue has not completed after 5.000000 seconds.
+[2023.06.28-10.27.54:985][742]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000591F4100380) on the [0x00000591DB985280, 3D] queue has not completed after 5.061704 seconds.
+[2023.06.28-10.27.54:985][742]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000591F41002A0) on the [0x00000591DB985280, 3D] queue has not completed after 5.061660 seconds.
+[2023.06.28-10.27.54:986][742]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000591F4103480) on the [0x00000591DB985280, 3D] queue has not completed after 5.059952 seconds.
+[2023.06.28-10.27.54:986][742]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000591F4101CE0) on the [0x00000591DB985280, 3D] queue has not completed after 5.059860 seconds.
+[2023.06.28-10.27.54:987][742]LogD3D12RHI: Warning: GPU timeout: A payload (0x00000591F41023E0) on the [0x00000591DB985280, 3D] queue has not completed after 5.060287 seconds.
+[2023.06.28-10.27.56:271][792]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.06.28-10.27.59:076][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.28-10.27.59:237][792]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.06.28-10.27.59:237][792]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.28-10.27.59:610][792]LogUObjectHash: Compacting FUObjectHashTables data took   4.03ms
+[2023.06.28-10.28.12:135][386]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.28-10.28.12:144][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.28-10.28.12:254][386]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.06.28-10.28.12:254][386]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.28-10.28.12:448][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2023.06.28-10.28.22:570][909]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.114789 sec, no shader worker used.
+[2023.06.28-10.28.22:706][915]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.28.27:089][153]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.098561 sec, no shader worker used.
+[2023.06.28-10.28.27:308][161]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.28.38:984][562]LogShaderCompilers: Display: ================================================
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Total job queries 1500, among them cache hits 696 (46.40%)
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Tracking 785 distinct input hashes that result in 466 distinct outputs (59.36%)
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: RAM used: 6.98 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.71%
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Shaders Compiled: 389
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Jobs assigned 389, completed 389 (100.00%)
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Average time worker was idle: 139.90 s
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Time job spent in pending queue: average 0.28 s, longest 4.65 s
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Job execution time: average 0.79 s, max 3.33 s
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Job life time (pending + execution): average 1.07 s, max 5.46
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 73.78 s
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Jobs were issued in 372 batches (only local compilation was used), average 1.05 jobs/batch
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Average processing rate: 5.27 jobs/sec
+[2023.06.28-10.28.38:986][562]LogShaderCompilers: Display: Total thread time: 155.85 s
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display: Total thread preprocess time: 6.70 s
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display: Percentage time preprocessing: 4.30%
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display: Effective parallelization: 2.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    8 times, average 0.94 sec, max 1.23 sec, min 0.80 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    3 times, average 0.87 sec, max 1.09 sec, min 0.62 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    3 times, average 0.85 sec, max 1.05 sec, min 0.65 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    3 times, average 0.85 sec, max 1.05 sec, min 0.64 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   32 times, average 0.84 sec, max 1.30 sec, min 0.50 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.26% of total time (compiled   32 times, average 0.84 sec, max 1.30 sec, min 0.50 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.52% of total time (compiled   32 times, average 0.80 sec, max 1.15 sec, min 0.52 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:                                               FNiagaraShader - 16.32% of total time (compiled  175 times, average 0.15 sec, max 0.43 sec, min 0.05 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.97% of total time (compiled   20 times, average 0.78 sec, max 1.07 sec, min 0.56 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display:                                                  FHitProxyVS - 8.09% of total time (compiled   17 times, average 0.74 sec, max 1.10 sec, min 0.56 sec)
+[2023.06.28-10.28.38:987][562]LogShaderCompilers: Display: ================================================
+[2023.06.28-10.28.39:027][564]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.609165 sec (time since issued), 1.114235 sec (combined shader worker time).
+[2023.06.28-10.28.39:145][571]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.29.18:765][133]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.29.19:211][158]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.494039 sec (time since issued), 0.825153 sec (combined shader worker time).
+[2023.06.28-10.29.20:774][252]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.30.15:022][163]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.30.15:395][185]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.424937 sec (time since issued), 0.776178 sec (combined shader worker time).
+[2023.06.28-10.30.17:022][283]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.30.55:842][ 54]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.30.56:245][ 78]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.466260 sec (time since issued), 0.863258 sec (combined shader worker time).
+[2023.06.28-10.30.57:952][161]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.31.25:188][ 81]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.31.25:545][102]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.405698 sec (time since issued), 0.638338 sec (combined shader worker time).
+[2023.06.28-10.31.27:254][199]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.31.47:613][959]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.28-10.32.18:568][575]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.32.18:949][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.28-10.32.19:127][575]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.28-10.32.19:263][575]LogViewport: Scene viewport resized to 458x420, mode Windowed.
+[2023.06.28-10.32.20:922][583]98248_Hit_MessageLog: System successfully compiled.
+[2023.06.28-10.32.21:981][628]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.06.28-10.32.21:981][628]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.28-10.32.37:754][475]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.32.38:132][497]LogShaderCompilers: Display: ================================================
+[2023.06.28-10.32.38:132][497]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.28-10.32.38:132][497]LogShaderCompilers: Display: Total job queries 1510, among them cache hits 696 (46.09%)
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Tracking 794 distinct input hashes that result in 475 distinct outputs (59.82%)
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: RAM used: 7.06 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.72%
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Shaders Compiled: 398
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Jobs assigned 399, completed 398 (99.75%)
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Average time worker was idle: 137.43 s
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Time job spent in pending queue: average 0.27 s, longest 4.65 s
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Job execution time: average 0.78 s, max 3.33 s
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Job life time (pending + execution): average 1.06 s, max 5.46
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 75.62 s
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Jobs were issued in 382 batches (only local compilation was used), average 1.04 jobs/batch
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Average processing rate: 5.26 jobs/sec
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Total thread time: 156.59 s
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Total thread preprocess time: 6.70 s
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Percentage time preprocessing: 4.28%
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Effective parallelization: 2.07 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.28-10.32.38:133][497]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    8 times, average 0.94 sec, max 1.23 sec, min 0.80 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    3 times, average 0.87 sec, max 1.09 sec, min 0.62 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    3 times, average 0.85 sec, max 1.05 sec, min 0.65 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    3 times, average 0.85 sec, max 1.05 sec, min 0.64 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   32 times, average 0.84 sec, max 1.30 sec, min 0.50 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 17.18% of total time (compiled   32 times, average 0.84 sec, max 1.30 sec, min 0.50 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:                                               FNiagaraShader - 16.72% of total time (compiled  184 times, average 0.14 sec, max 0.43 sec, min 0.05 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.44% of total time (compiled   32 times, average 0.80 sec, max 1.15 sec, min 0.52 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.92% of total time (compiled   20 times, average 0.78 sec, max 1.07 sec, min 0.56 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display:                                                  FHitProxyVS - 8.05% of total time (compiled   17 times, average 0.74 sec, max 1.10 sec, min 0.56 sec)
+[2023.06.28-10.32.38:134][497]LogShaderCompilers: Display: ================================================
+[2023.06.28-10.32.38:277][505]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.581856 sec (time since issued), 0.971904 sec (combined shader worker time).
+[2023.06.28-10.32.39:762][584]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.33.07:076][117]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/Hit.Hit took 0.855337 sec (time since issued), 2.855975 sec (combined shader worker time).
+[2023.06.28-10.33.07:292][126]98248_Hit_MessageLog: System successfully compiled.
+[2023.06.28-10.33.17:309][698]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/Hit.Hit took 0.888026 sec (time since issued), 2.505409 sec (combined shader worker time).
+[2023.06.28-10.33.17:498][707]98248_Hit_MessageLog: System successfully compiled.
+[2023.06.28-10.33.21:041][866]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/Hit.Hit took 0.841683 sec (time since issued), 3.116086 sec (combined shader worker time).
+[2023.06.28-10.33.21:068][866]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.33.21:116][866]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/Hit" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/Hit.uasset" SILENT=true
+[2023.06.28-10.33.21:252][866]LogSavePackage: Moving output files for package: /Game/RaihanStuff/Hit
+[2023.06.28-10.33.21:252][866]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/Hit9D877D6E45A4F473705913B810122A0B.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/Hit.uasset'
+[2023.06.28-10.33.21:270][866]LogFileHelpers: InternalPromptForCheckoutAndSave took 203 ms (total: 3.84 sec)
+[2023.06.28-10.33.21:299][866]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/Hit.Hit took 0.028582 sec, no shader worker used.
+[2023.06.28-10.33.21:642][866]AssetCheck: New page: Asset Save: Hit
+[2023.06.28-10.33.21:643][866]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.33.41:648][376]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.33.42:023][398]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.426314 sec (time since issued), 0.779336 sec (combined shader worker time).
+[2023.06.28-10.33.43:789][442]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.33.49:410][462]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.510645 sec (time since issued), 1.562547 sec (combined shader worker time).
+[2023.06.28-10.33.49:418][462]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.33.49:480][462]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AutoAttackTrail
+[2023.06.28-10.33.49:480][462]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AutoAttackTrail0743DA6C459F4E86D2A166ACB8A8AED5.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AutoAttackTrail.uasset'
+[2023.06.28-10.33.49:488][462]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 3.91 sec)
+[2023.06.28-10.33.49:526][462]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.036334 sec, no shader worker used.
+[2023.06.28-10.33.49:541][462]AssetCheck: New page: Asset Save: AutoAttackTrail
+[2023.06.28-10.33.49:541][462]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.34.57:180][884]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.037674 sec, no shader worker used.
+[2023.06.28-10.34.57:186][884]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.34.57:248][884]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AutoAttackTrail
+[2023.06.28-10.34.57:248][884]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AutoAttackTrail9A4CECA047AFD075E67CD484076210EC.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AutoAttackTrail.uasset'
+[2023.06.28-10.34.57:254][884]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 3.98 sec)
+[2023.06.28-10.34.57:294][884]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.039676 sec, no shader worker used.
+[2023.06.28-10.34.57:307][884]AssetCheck: New page: Asset Save: AutoAttackTrail
+[2023.06.28-10.34.57:307][884]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.34.59:630][973]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.34.59:631][973]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.34.59:651][973]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_8
+[2023.06.28-10.34.59:656][973]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_8
+[2023.06.28-10.34.59:954][987]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.34.59:954][987]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.34.59:969][987]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_9
+[2023.06.28-10.34.59:969][987]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_9
+[2023.06.28-10.35.23:070][302]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.35.23:487][315]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.518142 sec (time since issued), 0.963770 sec (combined shader worker time).
+[2023.06.28-10.35.25:071][377]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.35.33:821][895]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.010384 sec, no shader worker used.
+[2023.06.28-10.35.33:829][896]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.35.35:828][ 16]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: ================================================
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Total job queries 1534, among them cache hits 696 (45.37%)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Tracking 818 distinct input hashes that result in 489 distinct outputs (59.78%)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: RAM used: 7.40 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.81%
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Shaders Compiled: 422
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Jobs assigned 423, completed 422 (99.76%)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Average time worker was idle: 153.56 s
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Time job spent in pending queue: average 0.26 s, longest 4.65 s
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Job execution time: average 0.76 s, max 3.33 s
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Job life time (pending + execution): average 1.02 s, max 5.46
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 79.16 s
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Jobs were issued in 406 batches (only local compilation was used), average 1.04 jobs/batch
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Average processing rate: 5.33 jobs/sec
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Total thread time: 160.27 s
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Total thread preprocess time: 6.70 s
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Percentage time preprocessing: 4.18%
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Effective parallelization: 2.02 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    8 times, average 0.94 sec, max 1.23 sec, min 0.80 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    3 times, average 0.87 sec, max 1.09 sec, min 0.62 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    3 times, average 0.85 sec, max 1.05 sec, min 0.65 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    3 times, average 0.85 sec, max 1.05 sec, min 0.64 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   32 times, average 0.84 sec, max 1.30 sec, min 0.50 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:                                               FNiagaraShader - 18.63% of total time (compiled  208 times, average 0.14 sec, max 0.46 sec, min 0.05 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.79% of total time (compiled   32 times, average 0.84 sec, max 1.30 sec, min 0.50 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 16.06% of total time (compiled   32 times, average 0.80 sec, max 1.15 sec, min 0.52 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.69% of total time (compiled   20 times, average 0.78 sec, max 1.07 sec, min 0.56 sec)
+[2023.06.28-10.35.47:641][694]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.87% of total time (compiled   17 times, average 0.74 sec, max 1.10 sec, min 0.56 sec)
+[2023.06.28-10.35.47:642][694]LogShaderCompilers: Display: ================================================
+[2023.06.28-10.35.47:787][701]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.536597 sec (time since issued), 3.117740 sec (combined shader worker time).
+[2023.06.28-10.35.48:016][711]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.36.19:906][595]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.36.20:410][624]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.613743 sec (time since issued), 1.016171 sec (combined shader worker time).
+[2023.06.28-10.36.21:917][713]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.36.34:715][473]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.494833 sec (time since issued), 0.895674 sec (combined shader worker time).
+[2023.06.28-10.36.34:851][480]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.36.39:286][737]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.36.39:785][766]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.611048 sec (time since issued), 1.000537 sec (combined shader worker time).
+[2023.06.28-10.36.41:291][855]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.36.53:007][547]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.36.53:438][572]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.542593 sec (time since issued), 0.961773 sec (combined shader worker time).
+[2023.06.28-10.36.55:014][666]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.36.58:622][875]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.36.59:070][901]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.566147 sec (time since issued), 0.882250 sec (combined shader worker time).
+[2023.06.28-10.37.00:630][994]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.37.44:502][206]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.011946 sec, no shader worker used.
+[2023.06.28-10.37.44:535][207]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.37.46:548][327]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.37.52:708][693]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.034038 sec, no shader worker used.
+[2023.06.28-10.37.52:719][694]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.37.54:736][813]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.37.58:877][ 58]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.012184 sec, no shader worker used.
+[2023.06.28-10.37.58:909][ 59]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.38.00:922][179]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.38.14:446][956]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.477106 sec (time since issued), 1.500478 sec (combined shader worker time).
+[2023.06.28-10.38.14:453][956]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.38.14:559][956]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AutoAttackTrail
+[2023.06.28-10.38.14:559][956]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AutoAttackTrail2DAAA2894B86B7447F8CD6BE5D3038D5.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AutoAttackTrail.uasset'
+[2023.06.28-10.38.14:565][956]LogFileHelpers: InternalPromptForCheckoutAndSave took 112 ms (total: 4.09 sec)
+[2023.06.28-10.38.14:580][956]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.014926 sec, no shader worker used.
+[2023.06.28-10.38.14:590][956]AssetCheck: New page: Asset Save: AutoAttackTrail
+[2023.06.28-10.38.14:590][956]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.38.38:238][271]81369_AutoAttackTrail_MessageLog: System compile status unknown.
+[2023.06.28-10.38.38:649][294]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.491237 sec (time since issued), 0.779852 sec (combined shader worker time).
+[2023.06.28-10.38.40:245][383]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: ================================================
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Total job queries 1552, among them cache hits 696 (44.85%)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Tracking 837 distinct input hashes that result in 500 distinct outputs (59.74%)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: RAM used: 7.61 MB (0.01 GB) of 409.60 MB (0.40 GB) budget. Usage: 1.86%
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Shaders Compiled: 441
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Jobs assigned 441, completed 441 (100.00%)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Average time worker was idle: 149.05 s
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Time job spent in pending queue: average 0.25 s, longest 4.65 s
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Job execution time: average 0.74 s, max 3.33 s
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Job life time (pending + execution): average 0.99 s, max 5.46
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 82.55 s
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Jobs were issued in 424 batches (only local compilation was used), average 1.04 jobs/batch
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Average processing rate: 5.34 jobs/sec
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Total thread time: 162.43 s
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Total thread preprocess time: 6.70 s
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Percentage time preprocessing: 4.13%
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Effective parallelization: 1.97 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    8 times, average 0.94 sec, max 1.23 sec, min 0.80 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:                  TShadowDepthVSVertexShadowDepth_OutputDepth (compiled    3 times, average 0.87 sec, max 1.09 sec, min 0.62 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:            TShadowDepthVSVertexShadowDepth_OnePassPointLight (compiled    3 times, average 0.85 sec, max 1.05 sec, min 0.65 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:           TShadowDepthVSVertexShadowDepth_PerspectiveCorrect (compiled    3 times, average 0.85 sec, max 1.05 sec, min 0.64 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   32 times, average 0.84 sec, max 1.30 sec, min 0.50 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:                                               FNiagaraShader - 19.71% of total time (compiled  227 times, average 0.14 sec, max 0.46 sec, min 0.04 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 16.56% of total time (compiled   32 times, average 0.84 sec, max 1.30 sec, min 0.50 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 15.85% of total time (compiled   32 times, average 0.80 sec, max 1.15 sec, min 0.52 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:                                                 FLumenCardVS - 9.56% of total time (compiled   20 times, average 0.78 sec, max 1.07 sec, min 0.56 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display:                                                  FHitProxyVS - 7.76% of total time (compiled   17 times, average 0.74 sec, max 1.10 sec, min 0.56 sec)
+[2023.06.28-10.38.48:596][860]LogShaderCompilers: Display: ================================================
+[2023.06.28-10.38.48:610][860]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.384470 sec (time since issued), 1.478342 sec (combined shader worker time).
+[2023.06.28-10.38.48:616][860]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.38.48:708][860]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AutoAttackTrail
+[2023.06.28-10.38.48:708][860]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AutoAttackTrail7F5A676945C3A6553B5486A77C18F601.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AutoAttackTrail.uasset'
+[2023.06.28-10.38.48:714][860]LogFileHelpers: InternalPromptForCheckoutAndSave took 97 ms (total: 4.19 sec)
+[2023.06.28-10.38.48:747][860]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.033427 sec, no shader worker used.
+[2023.06.28-10.38.48:764][860]AssetCheck: New page: Asset Save: AutoAttackTrail
+[2023.06.28-10.38.48:764][860]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.39.38:462][467]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.500977 sec (time since issued), 1.565387 sec (combined shader worker time).
+[2023.06.28-10.39.38:467][467]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.39.38:560][467]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AutoAttackTrail
+[2023.06.28-10.39.38:561][467]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AutoAttackTrailF562874945AD29F0CE0C8084D908AF45.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AutoAttackTrail.uasset'
+[2023.06.28-10.39.38:567][467]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 4.29 sec)
+[2023.06.28-10.39.38:581][467]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.013533 sec, no shader worker used.
+[2023.06.28-10.39.38:590][467]AssetCheck: New page: Asset Save: AutoAttackTrail
+[2023.06.28-10.39.38:590][467]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.39.47:985][982]LogUObjectHash: Compacting FUObjectHashTables data took   6.18ms
+[2023.06.28-10.39.48:010][982]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.39.48:084][982]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2023.06.28-10.39.48:169][982]LogSavePackage: Moving output files for package: /Game/RaihanStuff/TestArea
+[2023.06.28-10.39.48:170][982]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/TestArea7209192642B339DB7B47D7AC3A225282.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/TestArea.umap'
+[2023.06.28-10.39.48:240][982]LogFileHelpers: Saving map 'TestArea' took 0.197
+[2023.06.28-10.39.48:246][982]LogFileHelpers: InternalPromptForCheckoutAndSave took 236 ms (total: 4.53 sec)
+[2023.06.28-10.39.48:257][982]AssetCheck: New page: Asset Save: TestArea
+[2023.06.28-10.39.48:257][982]LogContentValidation: Display: Validating /Script/Engine.World /Game/RaihanStuff/TestArea.TestArea
+[2023.06.28-10.39.51:268][156]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.39.51:268][156]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.39.51:268][156]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_10
+[2023.06.28-10.39.51:269][156]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_10
+[2023.06.28-10.39.52:265][215]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.39.52:265][215]LogActorFactory: Actor Factory attempting to spawn NiagaraSystem /Game/RaihanStuff/Hit.Hit
+[2023.06.28-10.39.52:267][215]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_11
+[2023.06.28-10.39.52:268][215]LogActorFactory: Actor Factory spawned NiagaraSystem /Game/RaihanStuff/Hit.Hit as actor: NiagaraActor /Game/RaihanStuff/TestArea.TestArea:PersistentLevel.NiagaraActor_11
+[2023.06.28-10.40.15:677][582]LogDebuggerCommands: Repeating last play command: Simulate
+[2023.06.28-10.40.15:706][582]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.28-10.40.15:711][582]PIE: New page: SIE session: TestArea (29 Jun 2023, 2:40:15 am)
+[2023.06.28-10.40.15:716][582]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.06.28-10.40.15:759][582]LogPlayLevel: PIE: StaticDuplicateObject took: (0.041459s)
+[2023.06.28-10.40.15:759][582]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.042284s)
+[2023.06.28-10.40.15:765][582]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.28-10.40.15:771][582]LogAIModule: Creating AISystem for world TestArea
+[2023.06.28-10.40.15:779][582]LogPlayLevel: PIE: World Init took: (0.021302s)
+[2023.06.28-10.40.15:813][582]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.06.28-10.40.15:834][582]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.06.28-10.40.15:839][582]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.28-10.40.15:839][582]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.28-10.40.15:839][582]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.28-10.40.15:840][582]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.28-10.40.15:840][582]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.06.28-10.40.15:842][582]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.28-10.40.15:842][582]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.06.28-10.40.15:842][582]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.28-10.40.15:847][582]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.28-10.40.15:847][582]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.28-10.40.15:847][582]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.28-10.40.15:861][582]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.28-10.40.15:920][582]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.06.28-10.40.15:927][582]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.28-10.40.15:927][582]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.28-10.40.15:929][582]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.28-10.40.15:938][582]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.06.28-10.40.15:938][582]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.06.28-10.40.15:941][582]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.06.28-10.40.15:941][582]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.06.28-10.40.15:942][582]LogInit: FAudioDevice initialized.
+[2023.06.28-10.40.15:942][582]LogAudio: Display: Audio Device (ID: 5) registered with world 'TestArea'.
+[2023.06.28-10.40.15:985][582]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.06.28-10.40.16:007][582]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.06.28-18.40.16
+[2023.06.28-10.40.16:009][582]LogWorld: Bringing up level for play took: 0.018091
+[2023.06.28-10.40.16:038][582]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.06.28-10.40.16:052][582]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.28-10.40.16:090][582]PIE: Server logged in
+[2023.06.28-10.40.16:091][582]PIE: Play in editor total start time 0.398 seconds.
+[2023.06.28-10.40.43:249][ 93]LogEditorViewport: Clicking Background
+[2023.06.28-10.40.48:490][399]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.40.48:529][399]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.06.28-10.40.48:572][399]LogSavePackage: Moving output files for package: /Game/RaihanStuff/TestArea
+[2023.06.28-10.40.48:572][399]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/TestArea8AFF2FDF4424B27DD4DC1AB6ADFCF875.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/TestArea.umap'
+[2023.06.28-10.40.48:579][399]LogFileHelpers: Saving map 'TestArea' took 0.089
+[2023.06.28-10.40.48:579][399]LogFileHelpers: InternalPromptForCheckoutAndSave took 89 ms (total: 4.62 sec)
+[2023.06.28-10.40.48:587][399]AssetCheck: New page: Asset Save: TestArea
+[2023.06.28-10.40.48:587][399]LogContentValidation: Display: Validating /Script/Engine.World /Game/RaihanStuff/TestArea.TestArea
+[2023.06.28-10.41.18:077][ 57]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.481858 sec (time since issued), 0.912323 sec (combined shader worker time).
+[2023.06.28-10.41.18:294][ 65]81369_AutoAttackTrail_MessageLog: System successfully compiled.
+[2023.06.28-10.41.34:908][ 26]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.411741 sec (time since issued), 1.463055 sec (combined shader worker time).
+[2023.06.28-10.41.34:909][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.28-10.41.34:944][ 26]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AutoAttackTrail
+[2023.06.28-10.41.34:945][ 26]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AutoAttackTrail46CA370742037C298F91D790AE83F9A1.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AutoAttackTrail.uasset'
+[2023.06.28-10.41.34:945][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 36 ms (total: 4.65 sec)
+[2023.06.28-10.41.34:956][ 26]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail took 0.011263 sec, no shader worker used.
+[2023.06.28-10.41.34:964][ 26]AssetCheck: New page: Asset Save: AutoAttackTrail
+[2023.06.28-10.41.34:964][ 26]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/AutoAttackTrail.AutoAttackTrail
+[2023.06.28-10.41.39:034][241]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.06.28-10.41.47:764][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.28-10.41.47:765][751]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.06.28-10.41.47:771][751]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.06.28-10.41.47:776][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.28-10.41.47:790][751]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.28-10.41.47:797][751]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.28-10.41.47:826][751]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.28-10.41.47:832][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.28-10.41.47:846][751]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.28-10.41.47:857][751]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.28-10.41.47:886][751]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2023.06.28-10.41.47:909][752]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.06.28-10.41.49:951][826]LogUObjectHash: Compacting FUObjectHashTables data took   3.74ms
