@@ -6,8 +6,10 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/NewBlueprint.uasset",
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/Blueprints/EnemyHPTemplate.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Z2/2BG7UH39F9G44SBPMU9GEM.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/NewBlueprint.uasset",
 				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P3/8KQKYUQ3JLDTCKAR270K0G.uasset"
 			]
 		}
