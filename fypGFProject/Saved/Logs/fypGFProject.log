@@ -1573,3 +1573,15 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.29-22.16.30:039][867]LogFileHelpers: InternalPromptForCheckoutAndSave took 120 ms (total: 950 ms)
 [2023.06.29-22.16.30:046][867]AssetCheck: New page: Asset Save: TestArea
 [2023.06.29-22.16.30:046][867]LogContentValidation: Display: Validating /Script/Engine.World /Game/RaihanStuff/TestArea.TestArea
+[2023.06.29-22.18.19:155][932]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Lotus/BPC_LotusSkill.BPC_LotusSkill
+[2023.06.29-22.18.19:168][932]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.29-22.18.56:901][162]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2023.06.29-22.18.56:901][162]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.29-22.19.24:967][843]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.29-22.19.25:027][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2023.06.29-22.19.25:068][843]LogSavePackage: Moving output files for package: /Game/RaihanStuff/TestArea
+[2023.06.29-22.19.25:069][843]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/TestAreaE7E9B02B44D4215AE22B6A818882D941.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/TestArea.umap'
+[2023.06.29-22.19.25:078][843]LogFileHelpers: Saving map 'TestArea' took 0.080
+[2023.06.29-22.19.25:083][843]LogFileHelpers: InternalPromptForCheckoutAndSave took 116 ms (total: 1.06 sec)
+[2023.06.29-22.19.25:090][843]AssetCheck: New page: Asset Save: TestArea
+[2023.06.29-22.19.25:090][843]LogContentValidation: Display: Validating /Script/Engine.World /Game/RaihanStuff/TestArea.TestArea
