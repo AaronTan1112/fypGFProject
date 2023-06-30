@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/Blueprints/EnemyHPTemplate.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Z2/2BG7UH39F9G44SBPMU9GEM.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/JumpPad_Blueprint.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/JumpPad_Blueprint.uasset",
 				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/TestArea.umap",
 				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/Hit.uasset",
 				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/m_HitSphere.uasset",
@@ -4373,10 +4379,6 @@
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/78/WSFLVKW1Q2SKCATWWNO6ZD.uasset",
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TX/N7QTZYYJAZMCH52COUBPXK.uasset",
 				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/ThirdPersonMap.umap",
-				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset",
-				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/Blueprints/EnemyHPTemplate.uasset",
-				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/Z2/2BG7UH39F9G44SBPMU9GEM.uasset",
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/NewBlueprint.uasset",
 				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P3/8KQKYUQ3JLDTCKAR270K0G.uasset"
 			]
