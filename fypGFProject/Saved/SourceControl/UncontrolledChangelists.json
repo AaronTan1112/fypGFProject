@@ -5,6 +5,10 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P3/8KQKYUQ3JLDTCKAR270K0G.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/GAS/LotusLeaf/LotusLeafVFX_NS.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/RaihanStuff/Healing.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/LotusLeafVFX_NS.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/C8/3P94IUDZLZ6S4U9RJGYTFT.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/LotusAddLeaf_Mat.uasset",
@@ -4432,8 +4436,7 @@
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/78/WSFLVKW1Q2SKCATWWNO6ZD.uasset",
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/1/TX/N7QTZYYJAZMCH52COUBPXK.uasset",
 				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/ThirdPersonMap.umap",
-				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/NewBlueprint.uasset",
-				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P3/8KQKYUQ3JLDTCKAR270K0G.uasset"
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/NewBlueprint.uasset"
 			]
 		}
 	]
