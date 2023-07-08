@@ -2786,3 +2786,966 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.07.08-20.02.41:639][137]LogPlayLevel: Display: Destroying online subsystem :Context_19
 [2023.07.08-20.02.43:044][208]LogSlate: Window 'Message Log' being destroyed
 [2023.07.08-20.02.43:049][208]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.05.18:746][507]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.05.18:749][507]LogBlueprint: Error: [AssetLog] C:\Users\01329\OneDrive\Documents\GitHub\fypGFProject\fypGFProject\Content\RaihanStuff\AC_Blink.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2023.07.08-20.05.18:780][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:782][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:782][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:845][507]LogUObjectHash: Compacting FUObjectHashTables data took   3.52ms
+[2023.07.08-20.05.18:852][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:855][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:857][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:861][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:862][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:863][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:868][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:870][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:872][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:876][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:878][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.18:879][507]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:345][ 10]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.05.27:382][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:382][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:383][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:447][ 10]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2023.07.08-20.05.27:461][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:463][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:464][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:466][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:467][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:469][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:476][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:479][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:480][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:482][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:483][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.27:484][ 10]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:426][321]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.05.49:430][321]LogBlueprint: Error: [AssetLog] C:\Users\01329\OneDrive\Documents\GitHub\fypGFProject\fypGFProject\Content\RaihanStuff\AC_Blink.uasset: [Compiler] The type of  Object  is undetermined.  Connect something to  Cast To Character  to imply a specific type.
+[2023.07.08-20.05.49:430][321]LogBlueprint: Error: [AssetLog] C:\Users\01329\OneDrive\Documents\GitHub\fypGFProject\fypGFProject\Content\RaihanStuff\AC_Blink.uasset: [Compiler] The current value of the ' Object ' pin is invalid: Unsupported type Wildcard on pin Object
+[2023.07.08-20.05.49:461][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:461][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:462][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:525][321]LogUObjectHash: Compacting FUObjectHashTables data took   4.01ms
+[2023.07.08-20.05.49:536][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:539][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:542][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:545][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:546][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:547][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:556][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:560][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:561][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:563][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:564][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.05.49:567][321]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.34:991][154]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.06.34:995][154]LogBlueprint: Error: [AssetLog] C:\Users\01329\OneDrive\Documents\GitHub\fypGFProject\fypGFProject\Content\RaihanStuff\AC_Blink.uasset: [Compiler] This blueprint (self) is not a Actor, therefore ' Target ' must have a connection.
+[2023.07.08-20.06.35:018][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:019][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:019][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:077][154]LogUObjectHash: Compacting FUObjectHashTables data took   1.98ms
+[2023.07.08-20.06.35:087][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:089][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:090][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:093][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:094][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:095][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:101][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:102][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:103][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:105][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:106][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.35:108][154]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:355][467]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.06.40:382][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:383][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:384][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:442][467]LogUObjectHash: Compacting FUObjectHashTables data took   1.71ms
+[2023.07.08-20.06.40:450][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:453][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:454][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:456][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:457][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:459][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:464][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:466][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:467][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:468][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:469][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.40:470][467]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.06.41:568][524]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.06.41:612][524]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.06.41:616][524]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.06.41:617][524]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_Blink101C7CBB426242A397CEA5AC383558CB.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.06.41:623][524]LogFileHelpers: InternalPromptForCheckoutAndSave took 54 ms (total: 2.07 sec)
+[2023.07.08-20.06.41:630][524]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.06.41:630][524]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.06.58:500][533]LogBlueprint: Warning: [AssetLog] C:\Users\01329\OneDrive\Documents\GitHub\fypGFProject\fypGFProject\Content\RaihanStuff\AC_Blink.uasset: [Compiler] Pasted node  CustomEvent   conflicted with  Event Begin Play  and was replaced as a Custom Event!
+[2023.07.08-20.06.59:635][577]LogEditorTransaction: Undo Paste clipboard contents
+[2023.07.08-20.07.06:211][940]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.07.06:239][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:239][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:240][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:292][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.09ms
+[2023.07.08-20.07.06:301][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:304][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:305][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:307][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:308][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:309][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:314][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:315][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:317][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:319][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:320][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.06:321][940]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.07:113][984]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.07.07:161][984]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.07.07:166][984]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.07.07:166][984]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_Blink2C1EEDBD4132004D26F9C8AB8B00023D.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.07.07:172][984]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.13 sec)
+[2023.07.08-20.07.07:180][984]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.07.07:180][984]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.07.08:389][ 53]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.07.08:395][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.07.08:395][ 53]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:07:08 pm)
+[2023.07.08-20.07.08:395][ 53]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.07.08:403][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007429s)
+[2023.07.08-20.07.08:403][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.007458s)
+[2023.07.08-20.07.08:403][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.07.08:403][ 53]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.07.08:403][ 53]LogPlayLevel: PIE: World Init took: (0.000834s)
+[2023.07.08-20.07.08:450][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.75ms
+[2023.07.08-20.07.08:453][ 53]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2023.07.08-20.07.08:453][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.07.08:453][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.07.08:453][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.07.08:453][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.07.08:453][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.07.08:453][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.07.08:453][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.07.08:453][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.07.08:454][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.07.08:454][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.07.08:454][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.07.08:456][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.07.08:488][ 53]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.07.08:488][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.07.08:488][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.07.08:488][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.07.08:489][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=12
+[2023.07.08-20.07.08:489][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=12
+[2023.07.08-20.07.08:491][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=12
+[2023.07.08-20.07.08:491][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=12
+[2023.07.08-20.07.08:491][ 53]LogInit: FAudioDevice initialized.
+[2023.07.08-20.07.08:491][ 53]LogAudio: Display: Audio Device (ID: 12) registered with world 'TestArea'.
+[2023.07.08-20.07.08:543][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.07.08:543][ 53]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.07.08:545][ 53]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.07.08
+[2023.07.08-20.07.08:546][ 53]LogWorld: Bringing up level for play took: 0.002408
+[2023.07.08-20.07.08:548][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_20
+[2023.07.08-20.07.08:552][ 53]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.08:555][ 53]PIE: Server logged in
+[2023.07.08-20.07.08:555][ 53]PIE: Play in editor total start time 0.161 seconds.
+[2023.07.08-20.07.08:569][ 53]LogViewport: Scene viewport resized to 457x500, mode Windowed.
+[2023.07.08-20.07.09:476][ 89]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.07.09:476][ 89]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.07.09:476][ 89]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.07.10:572][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.10:573][155]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.10:573][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.10:573][155]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.10:573][155]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.10:573][155]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:055][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:055][184]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:055][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:055][184]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:055][184]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:055][184]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:288][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:288][198]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:288][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:288][198]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:288][198]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property As Character". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:288][198]PIE: Error: Blueprint Runtime Error: "Accessed None". Node:  Set World Location Graph:  EventGraph Function:  Execute Ubergraph AC Blink Blueprint:  AC_Blink
+[2023.07.08-20.07.11:909][233]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.07.11:910][233]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.07.11:910][233]LogSlate: Window 'fypGFProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.07.08-20.07.11:917][233]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.07.11:918][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.07.11:920][233]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.07.11:931][233]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.07.11:979][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.07.08-20.07.11:980][233]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=12
+[2023.07.08-20.07.11:990][233]LogUObjectHash: Compacting FUObjectHashTables data took   2.98ms
+[2023.07.08-20.07.12:123][234]LogPlayLevel: Display: Destroying online subsystem :Context_20
+[2023.07.08-20.07.13:493][304]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.07.13:498][304]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.07.29:963][906]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.07.29:992][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.29:993][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.29:994][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:044][906]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2023.07.08-20.07.30:052][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:054][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:056][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:058][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:059][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:061][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:067][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:068][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:070][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:073][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:074][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:075][906]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.07.30:520][928]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.07.30:581][928]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.07.30:586][928]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.07.30:586][928]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_BlinkD708061F41206EB04B46AEA571D6ECDA.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.07.30:593][928]LogFileHelpers: InternalPromptForCheckoutAndSave took 72 ms (total: 2.21 sec)
+[2023.07.08-20.07.30:602][928]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.07.30:602][928]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.08.15:280][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.08.15:328][ 91]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.08.15:333][ 91]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.08.15:333][ 91]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_Blink0790811740561D3CF020A1A1D7547F83.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.08.15:340][ 91]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 2.27 sec)
+[2023.07.08-20.08.15:350][ 91]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.08.15:350][ 91]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.14.40:157][809]LogDerivedDataCache: C:/Users/01329/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.389 and deleted 0 files with total size 0 MiB. Scanned 5630 files in 5538 folders with total size 223 MiB.
+[2023.07.08-20.14.54:546][633]LogEditorTransaction: Undo Delete current selection
+[2023.07.08-20.15.06:823][338]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.15.06:876][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:878][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:879][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:932][338]LogUObjectHash: Compacting FUObjectHashTables data took   2.54ms
+[2023.07.08-20.15.06:941][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:943][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:944][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:946][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:947][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:949][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:954][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:956][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:958][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:959][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:960][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.06:962][338]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.07:360][361]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.15.07:396][361]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.15.07:400][361]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.15.07:400][361]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_BlinkFD76800543F54CD6281B91A9B1AA960A.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.15.07:406][361]LogFileHelpers: InternalPromptForCheckoutAndSave took 45 ms (total: 2.31 sec)
+[2023.07.08-20.15.07:413][361]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.15.07:414][361]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.15.08:512][425]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.15.08:518][425]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.15.08:518][425]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:15:08 pm)
+[2023.07.08-20.15.08:518][425]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.15.08:526][425]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007862s)
+[2023.07.08-20.15.08:526][425]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.007892s)
+[2023.07.08-20.15.08:526][425]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.15.08:526][425]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.15.08:527][425]LogPlayLevel: PIE: World Init took: (0.000754s)
+[2023.07.08-20.15.08:577][425]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2023.07.08-20.15.08:580][425]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2023.07.08-20.15.08:580][425]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.15.08:580][425]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.15.08:580][425]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.15.08:580][425]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.15.08:580][425]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.15.08:580][425]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.15.08:580][425]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.15.08:580][425]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.15.08:580][425]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.15.08:580][425]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.15.08:580][425]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.15.08:583][425]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.15.08:616][425]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.15.08:616][425]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.15.08:617][425]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.15.08:617][425]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.15.08:618][425]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=13
+[2023.07.08-20.15.08:618][425]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=13
+[2023.07.08-20.15.08:620][425]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=13
+[2023.07.08-20.15.08:622][425]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=13
+[2023.07.08-20.15.08:622][425]LogInit: FAudioDevice initialized.
+[2023.07.08-20.15.08:622][425]LogAudio: Display: Audio Device (ID: 13) registered with world 'TestArea'.
+[2023.07.08-20.15.08:678][425]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.15.08:679][425]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.15.08:681][425]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.15.08
+[2023.07.08-20.15.08:682][425]LogWorld: Bringing up level for play took: 0.003251
+[2023.07.08-20.15.08:684][425]LogOnline: OSS: Created online subsystem instance for: :Context_21
+[2023.07.08-20.15.08:688][425]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.08:691][425]PIE: Server logged in
+[2023.07.08-20.15.08:691][425]PIE: Play in editor total start time 0.174 seconds.
+[2023.07.08-20.15.08:718][425]LogViewport: Scene viewport resized to 457x500, mode Windowed.
+[2023.07.08-20.15.09:875][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.15.09:875][461]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.15.09:875][461]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.15.16:881][879]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.15.16:881][879]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.15.16:882][879]LogSlate: Window 'fypGFProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.07.08-20.15.16:886][879]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.15.16:886][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.15.16:890][879]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.15.16:901][879]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.15.16:955][879]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.08-20.15.16:956][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.07.08-20.15.16:957][879]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=13
+[2023.07.08-20.15.16:968][879]LogUObjectHash: Compacting FUObjectHashTables data took   2.73ms
+[2023.07.08-20.15.17:092][880]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2023.07.08-20.15.29:362][ 15]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.15.29:368][ 15]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.15.51:506][795]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.15.51:627][795]LogSavePackage: Moving output files for package: /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter
+[2023.07.08-20.15.51:627][795]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/BP_ThirdPersonCharacterF5A34BF64730CBED6DD6058E68251BD2.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset'
+[2023.07.08-20.15.51:633][795]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 2.44 sec)
+[2023.07.08-20.15.51:641][795]AssetCheck: New page: Asset Save: BP_ThirdPersonCharacter
+[2023.07.08-20.15.51:641][795]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.BP_ThirdPersonCharacter
+[2023.07.08-20.15.56:892][104]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.15.56:931][104]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.15.56:936][104]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.15.56:936][104]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_Blink404C4CB94BDBE7F0FCE3C8B3DC1D73CA.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.15.56:942][104]LogFileHelpers: InternalPromptForCheckoutAndSave took 50 ms (total: 2.49 sec)
+[2023.07.08-20.15.56:949][104]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.15.56:949][104]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.15.59:641][248]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.15.59:648][248]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.15.59:648][248]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:15:59 pm)
+[2023.07.08-20.15.59:648][248]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.15.59:656][248]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008230s)
+[2023.07.08-20.15.59:656][248]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.008260s)
+[2023.07.08-20.15.59:656][248]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.15.59:656][248]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.15.59:657][248]LogPlayLevel: PIE: World Init took: (0.000730s)
+[2023.07.08-20.15.59:703][248]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.07.08-20.15.59:707][248]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2023.07.08-20.15.59:707][248]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.15.59:707][248]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.15.59:707][248]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.15.59:707][248]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.15.59:707][248]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.15.59:707][248]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.15.59:707][248]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.15.59:707][248]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.15.59:707][248]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.15.59:707][248]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.15.59:707][248]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.15.59:709][248]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.15.59:742][248]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.15.59:742][248]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.15.59:742][248]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.15.59:743][248]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.15.59:744][248]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=14
+[2023.07.08-20.15.59:744][248]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=14
+[2023.07.08-20.15.59:745][248]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=14
+[2023.07.08-20.15.59:745][248]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=14
+[2023.07.08-20.15.59:745][248]LogInit: FAudioDevice initialized.
+[2023.07.08-20.15.59:745][248]LogAudio: Display: Audio Device (ID: 14) registered with world 'TestArea'.
+[2023.07.08-20.15.59:768][248]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.15.59:770][248]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.15.59
+[2023.07.08-20.15.59:770][248]LogWorld: Bringing up level for play took: 0.002213
+[2023.07.08-20.15.59:772][248]LogOnline: OSS: Created online subsystem instance for: :Context_22
+[2023.07.08-20.15.59:777][248]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.15.59:778][248]PIE: Server logged in
+[2023.07.08-20.15.59:778][248]PIE: Play in editor total start time 0.131 seconds.
+[2023.07.08-20.16.01:413][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.16.01:413][252]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.16.01:413][252]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.16.21:872][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.16.21:872][462]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.16.21:875][462]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.16.21:876][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.16.21:884][462]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.16.21:897][462]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.16.21:951][462]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.16.21:952][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.07.08-20.16.21:954][462]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=14
+[2023.07.08-20.16.21:962][462]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.07.08-20.16.22:315][463]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2023.07.08-20.16.23:757][516]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.16.23:770][516]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.17.07:081][340]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.17.07:112][340]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.17.07:117][340]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.17.07:118][340]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_Blink38E2B74E4E88C0B24C1EDE82AFE335BD.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.17.07:122][340]LogFileHelpers: InternalPromptForCheckoutAndSave took 40 ms (total: 2.53 sec)
+[2023.07.08-20.17.07:133][340]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.17.07:134][340]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.17.20:307][104]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.17.20:313][104]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.17.20:315][104]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:17:20 pm)
+[2023.07.08-20.17.20:315][104]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.17.20:322][104]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008391s)
+[2023.07.08-20.17.20:322][104]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.008419s)
+[2023.07.08-20.17.20:322][104]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.17.20:322][104]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.17.20:323][104]LogPlayLevel: PIE: World Init took: (0.001377s)
+[2023.07.08-20.17.20:380][104]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2023.07.08-20.17.20:384][104]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2023.07.08-20.17.20:384][104]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.17.20:384][104]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.17.20:384][104]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.17.20:384][104]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.17.20:384][104]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.17.20:384][104]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.17.20:384][104]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.17.20:384][104]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.17.20:384][104]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.17.20:384][104]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.17.20:384][104]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.17.20:387][104]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.17.20:422][104]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.17.20:423][104]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.17.20:423][104]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.17.20:423][104]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.17.20:423][104]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=15
+[2023.07.08-20.17.20:423][104]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=15
+[2023.07.08-20.17.20:425][104]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=15
+[2023.07.08-20.17.20:425][104]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=15
+[2023.07.08-20.17.20:425][104]LogInit: FAudioDevice initialized.
+[2023.07.08-20.17.20:425][104]LogAudio: Display: Audio Device (ID: 15) registered with world 'TestArea'.
+[2023.07.08-20.17.20:463][104]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.17.20:463][104]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.17.20:467][104]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.17.20
+[2023.07.08-20.17.20:468][104]LogWorld: Bringing up level for play took: 0.003003
+[2023.07.08-20.17.20:470][104]LogOnline: OSS: Created online subsystem instance for: :Context_23
+[2023.07.08-20.17.20:474][104]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.17.20:476][104]PIE: Server logged in
+[2023.07.08-20.17.20:477][104]PIE: Play in editor total start time 0.164 seconds.
+[2023.07.08-20.17.20:494][104]LogViewport: Scene viewport resized to 457x500, mode Windowed.
+[2023.07.08-20.17.25:789][300]LogViewport: Scene viewport resized to 458x500, mode Windowed.
+[2023.07.08-20.17.25:837][300]LogViewport: Scene viewport resized to 466x501, mode Windowed.
+[2023.07.08-20.17.25:886][300]LogViewport: Scene viewport resized to 504x515, mode Windowed.
+[2023.07.08-20.17.25:971][300]LogViewport: Scene viewport resized to 671x588, mode Windowed.
+[2023.07.08-20.17.26:020][300]LogViewport: Scene viewport resized to 770x634, mode Windowed.
+[2023.07.08-20.17.26:071][300]LogViewport: Scene viewport resized to 791x651, mode Windowed.
+[2023.07.08-20.17.26:138][300]LogViewport: Scene viewport resized to 794x655, mode Windowed.
+[2023.07.08-20.17.26:271][300]LogViewport: Scene viewport resized to 794x656, mode Windowed.
+[2023.07.08-20.17.26:320][300]LogViewport: Scene viewport resized to 794x658, mode Windowed.
+[2023.07.08-20.17.26:371][300]LogViewport: Scene viewport resized to 792x670, mode Windowed.
+[2023.07.08-20.17.26:421][300]LogViewport: Scene viewport resized to 792x675, mode Windowed.
+[2023.07.08-20.17.26:470][300]LogViewport: Scene viewport resized to 792x677, mode Windowed.
+[2023.07.08-20.17.26:520][300]LogViewport: Scene viewport resized to 804x694, mode Windowed.
+[2023.07.08-20.17.26:587][300]LogViewport: Scene viewport resized to 827x707, mode Windowed.
+[2023.07.08-20.17.26:637][300]LogViewport: Scene viewport resized to 847x706, mode Windowed.
+[2023.07.08-20.17.26:703][300]LogViewport: Scene viewport resized to 858x703, mode Windowed.
+[2023.07.08-20.17.26:754][300]LogViewport: Scene viewport resized to 883x702, mode Windowed.
+[2023.07.08-20.17.26:803][300]LogViewport: Scene viewport resized to 894x702, mode Windowed.
+[2023.07.08-20.17.26:855][300]LogViewport: Scene viewport resized to 895x702, mode Windowed.
+[2023.07.08-20.17.54:289][940]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.17.54:289][940]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.17.54:290][940]LogSlate: Window 'fypGFProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.07.08-20.17.54:295][940]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.17.54:296][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.17.54:299][940]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.17.54:310][940]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.17.54:370][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.07.08-20.17.54:371][940]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=15
+[2023.07.08-20.17.54:386][940]LogUObjectHash: Compacting FUObjectHashTables data took   2.90ms
+[2023.07.08-20.17.54:415][941]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2023.07.08-20.17.56:290][ 53]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.17.56:296][ 53]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.17.56:296][ 53]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:17:56 pm)
+[2023.07.08-20.17.56:297][ 53]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.17.56:305][ 53]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008429s)
+[2023.07.08-20.17.56:305][ 53]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.008460s)
+[2023.07.08-20.17.56:305][ 53]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.17.56:305][ 53]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.17.56:305][ 53]LogPlayLevel: PIE: World Init took: (0.000761s)
+[2023.07.08-20.17.56:352][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2023.07.08-20.17.56:353][ 53]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2023.07.08-20.17.56:353][ 53]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.17.56:353][ 53]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.17.56:354][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.17.56:354][ 53]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.17.56:354][ 53]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.17.56:354][ 53]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.17.56:354][ 53]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.17.56:354][ 53]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.17.56:354][ 53]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.17.56:354][ 53]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.17.56:354][ 53]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.17.56:358][ 53]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.17.56:395][ 53]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.17.56:395][ 53]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.17.56:395][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.17.56:395][ 53]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.17.56:398][ 53]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=16
+[2023.07.08-20.17.56:398][ 53]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=16
+[2023.07.08-20.17.56:399][ 53]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=16
+[2023.07.08-20.17.56:399][ 53]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=16
+[2023.07.08-20.17.56:399][ 53]LogInit: FAudioDevice initialized.
+[2023.07.08-20.17.56:399][ 53]LogAudio: Display: Audio Device (ID: 16) registered with world 'TestArea'.
+[2023.07.08-20.17.56:448][ 53]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.17.56:448][ 53]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.17.56:451][ 53]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.17.56
+[2023.07.08-20.17.56:451][ 53]LogWorld: Bringing up level for play took: 0.002975
+[2023.07.08-20.17.56:454][ 53]LogOnline: OSS: Created online subsystem instance for: :Context_24
+[2023.07.08-20.17.56:460][ 53]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.17.56:462][ 53]PIE: Server logged in
+[2023.07.08-20.17.56:462][ 53]PIE: Play in editor total start time 0.167 seconds.
+[2023.07.08-20.17.56:482][ 53]LogViewport: Scene viewport resized to 895x702, mode Windowed.
+[2023.07.08-20.17.58:107][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.17.58:107][131]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.17.58:107][131]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.18.09:820][829]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.18.09:820][829]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.18.09:821][829]LogSlate: Window 'fypGFProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.07.08-20.18.09:826][829]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.18.09:827][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.18.09:829][829]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.18.09:836][829]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.18.09:890][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.07.08-20.18.09:892][829]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=16
+[2023.07.08-20.18.09:910][829]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2023.07.08-20.18.10:044][830]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.07.08-20.18.11:794][924]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.18.11:800][924]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.18.41:800][245]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.18.41:870][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:872][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:873][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:935][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.07.08-20.18.41:955][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:960][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:963][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:966][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:967][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:969][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:976][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:979][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:980][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:983][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:984][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.41:986][245]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.42:614][279]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.18.42:664][279]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.18.42:669][279]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.18.42:669][279]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_BlinkCF6C2FCF4695E2638FC4EBBF9364F621.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.18.42:676][279]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 2.59 sec)
+[2023.07.08-20.18.42:687][279]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.18.42:687][279]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.18.46:629][506]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.18.46:638][506]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.18.46:638][506]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:18:46 pm)
+[2023.07.08-20.18.46:662][506]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.18.46:670][506]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008968s)
+[2023.07.08-20.18.46:670][506]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.009015s)
+[2023.07.08-20.18.46:670][506]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.18.46:671][506]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.18.46:671][506]LogPlayLevel: PIE: World Init took: (0.000840s)
+[2023.07.08-20.18.46:734][506]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2023.07.08-20.18.46:739][506]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2023.07.08-20.18.46:739][506]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.18.46:739][506]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.18.46:739][506]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.18.46:739][506]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.18.46:739][506]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.18.46:739][506]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.18.46:739][506]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.18.46:739][506]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.18.46:740][506]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.18.46:740][506]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.18.46:740][506]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.18.46:743][506]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.18.46:782][506]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.18.46:782][506]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.18.46:782][506]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.18.46:782][506]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.18.46:784][506]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=17
+[2023.07.08-20.18.46:784][506]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=17
+[2023.07.08-20.18.46:785][506]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=17
+[2023.07.08-20.18.46:785][506]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=17
+[2023.07.08-20.18.46:785][506]LogInit: FAudioDevice initialized.
+[2023.07.08-20.18.46:785][506]LogAudio: Display: Audio Device (ID: 17) registered with world 'TestArea'.
+[2023.07.08-20.18.46:789][506]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.18.46:791][506]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.18.46
+[2023.07.08-20.18.46:791][506]LogWorld: Bringing up level for play took: 0.003288
+[2023.07.08-20.18.46:795][506]LogOnline: OSS: Created online subsystem instance for: :Context_25
+[2023.07.08-20.18.46:798][506]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.18.46:799][506]PIE: Server logged in
+[2023.07.08-20.18.46:799][506]PIE: Play in editor total start time 0.162 seconds.
+[2023.07.08-20.18.49:609][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.18.49:609][576]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.18.49:609][576]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.18.53:624][816]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_1
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:findHomingTarget:0173
+[2023.07.08-20.18.53:624][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.18.53:624][816]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_1
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:ExecuteUbergraph_spellSpawn:01CE
+[2023.07.08-20.18.53:624][816]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.18.53:624][816]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.18.53:766][825]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_2
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:findHomingTarget:0173
+[2023.07.08-20.18.53:766][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.18.53:766][825]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_2
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:ExecuteUbergraph_spellSpawn:01CE
+[2023.07.08-20.18.53:768][825]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.18.53:768][825]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.18.59:668][176]LogBlueprintUserMessages: [spellSpawn_C_2] Bullet destroy!
+[2023.07.08-20.18.59:668][176]LogBlueprintUserMessages: [spellSpawn_C_1] Bullet destroy!
+[2023.07.08-20.19.02:610][352]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_3
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:findHomingTarget:0173
+[2023.07.08-20.19.02:610][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.19.02:610][352]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_3
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:ExecuteUbergraph_spellSpawn:01CE
+[2023.07.08-20.19.02:610][352]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.19.02:610][352]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.19.02:777][362]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_4
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:findHomingTarget:0173
+[2023.07.08-20.19.02:777][362]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.19.02:777][362]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_4
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:ExecuteUbergraph_spellSpawn:01CE
+[2023.07.08-20.19.02:777][362]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.19.02:777][362]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.19.02:960][373]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_5
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:findHomingTarget:0173
+[2023.07.08-20.19.02:960][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.19.02:960][373]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_5
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:ExecuteUbergraph_spellSpawn:01CE
+[2023.07.08-20.19.02:960][373]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.19.02:960][373]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.19.03:108][382]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_6
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:findHomingTarget:0173
+[2023.07.08-20.19.03:109][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.19.03:109][382]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_6
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:ExecuteUbergraph_spellSpawn:01CE
+[2023.07.08-20.19.03:109][382]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.19.03:109][382]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.19.03:276][392]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_7
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:findHomingTarget:0173
+[2023.07.08-20.19.03:276][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.19.03:276][392]LogScript: Warning: Accessed None trying to read property HomingTarget
+	spellSpawn_C /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea:PersistentLevel.spellSpawn_C_7
+	Function /Game/JakeStuff/spellSpawn.spellSpawn_C:ExecuteUbergraph_spellSpawn:01CE
+[2023.07.08-20.19.03:276][392]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.19.03:276][392]LogBlueprintUserMessages: [spellSpawn_C_7] Bullet destroy!
+[2023.07.08-20.19.03:276][392]LogBlueprintUserMessages: [spellSpawn_C_4] Bullet destroy!
+[2023.07.08-20.19.03:278][392]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.19.08:379][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.19.08:379][687]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.19.08:379][687]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.19.08:380][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.19.08:383][687]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.19.08:393][687]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.19.08:449][687]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.08-20.19.08:450][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.07.08-20.19.08:462][687]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=17
+[2023.07.08-20.19.08:478][687]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.19.08:483][687]LogUObjectHash: Compacting FUObjectHashTables data took   2.72ms
+[2023.07.08-20.19.08:670][688]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2023.07.08-20.19.10:716][761]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.19.10:721][761]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.22.34:455][512]LogSlate: Took 0.001398 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: ================================================
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Total job queries 299, among them cache hits 70 (23.41%)
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Tracking 229 distinct input hashes that result in 175 distinct outputs (76.42%)
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: RAM used: 1.81 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.44%
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Shaders Compiled: 9
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Jobs assigned 9, completed 9 (100.00%)
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Average time worker was idle: 1089.14 s
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.11 s
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Job execution time: average 0.50 s, max 0.82 s
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Job life time (pending + execution): average 0.55 s, max 0.83
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.06 s
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Jobs were issued in 9 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Average processing rate: 4.36 jobs/sec
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Total thread time: 1.85 s
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Total thread preprocess time: 0.02 s
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Percentage time preprocessing: 1.06%
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Effective parallelization: 0.90 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display:                                               FNiagaraShader (compiled    9 times, average 0.21 sec, max 0.48 sec, min 0.11 sec)
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled    9 times, average 0.21 sec, max 0.48 sec, min 0.11 sec)
+[2023.07.08-20.22.44:264][ 73]LogShaderCompilers: Display: ================================================
+[2023.07.08-20.22.51:485][102]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.22.51:517][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:519][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:520][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:575][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2023.07.08-20.22.51:587][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:590][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:591][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:595][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:597][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:598][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:604][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:607][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:608][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:611][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:613][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.51:614][102]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.52:549][155]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.22.52:580][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.22.52:586][155]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.22.52:586][155]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_Blink1965401F46E7E05B96CD8CBE87CCCF41.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.22.52:592][155]LogFileHelpers: InternalPromptForCheckoutAndSave took 42 ms (total: 2.63 sec)
+[2023.07.08-20.22.52:599][155]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.22.52:599][155]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.22.53:547][210]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.22.53:554][210]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.22.53:554][210]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:22:53 pm)
+[2023.07.08-20.22.53:554][210]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.22.53:566][210]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011696s)
+[2023.07.08-20.22.53:566][210]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.011726s)
+[2023.07.08-20.22.53:566][210]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.22.53:566][210]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.22.53:568][210]LogPlayLevel: PIE: World Init took: (0.001353s)
+[2023.07.08-20.22.53:617][210]LogUObjectHash: Compacting FUObjectHashTables data took   2.40ms
+[2023.07.08-20.22.53:620][210]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2023.07.08-20.22.53:620][210]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.22.53:620][210]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.22.53:620][210]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.22.53:620][210]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.22.53:620][210]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.22.53:620][210]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.22.53:620][210]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.22.53:620][210]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.22.53:620][210]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.22.53:620][210]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.22.53:620][210]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.22.53:623][210]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.22.53:654][210]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.22.53:654][210]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.22.53:654][210]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.22.53:654][210]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.22.53:655][210]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=18
+[2023.07.08-20.22.53:655][210]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=18
+[2023.07.08-20.22.53:663][210]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=18
+[2023.07.08-20.22.53:663][210]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=18
+[2023.07.08-20.22.53:663][210]LogInit: FAudioDevice initialized.
+[2023.07.08-20.22.53:663][210]LogAudio: Display: Audio Device (ID: 18) registered with world 'TestArea'.
+[2023.07.08-20.22.53:713][210]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.22.53:713][210]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.22.53:715][210]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.22.53
+[2023.07.08-20.22.53:715][210]LogWorld: Bringing up level for play took: 0.002260
+[2023.07.08-20.22.53:718][210]LogOnline: OSS: Created online subsystem instance for: :Context_26
+[2023.07.08-20.22.53:722][210]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.22.53:725][210]PIE: Server logged in
+[2023.07.08-20.22.53:725][210]PIE: Play in editor total start time 0.171 seconds.
+[2023.07.08-20.22.53:745][210]LogViewport: Scene viewport resized to 895x702, mode Windowed.
+[2023.07.08-20.22.56:353][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.22.56:353][336]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.22.56:353][336]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.23.05:638][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.23.05:638][886]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.23.05:639][886]LogSlate: Window 'fypGFProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.07.08-20.23.05:643][886]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.23.05:644][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.23.05:646][886]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.23.05:657][886]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.23.05:715][886]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.08-20.23.05:716][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.07.08-20.23.05:717][886]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=18
+[2023.07.08-20.23.05:727][886]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2023.07.08-20.23.05:879][887]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.07.08-20.23.07:245][957]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.23.07:250][957]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.23.09:733][ 86]LogAssetEditorSubsystem: Opening Asset editor for NiagaraSystem /Game/RaihanStuff/StartBlink.StartBlink
+[2023.07.08-20.23.10:238][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.23.10:291][ 86]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/StartBlink.StartBlink took 0.361743 sec, no shader worker used.
+[2023.07.08-20.23.10:398][ 86]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.23.10:579][ 86]LogViewport: Scene viewport resized to 458x420, mode Windowed.
+[2023.07.08-20.23.11:373][ 95]183806_StartBlink_MessageLog: System successfully compiled.
+[2023.07.08-20.23.59:225][872]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/StartBlink.StartBlink took 0.377625 sec (time since issued), 4.101593 sec (combined shader worker time).
+[2023.07.08-20.23.59:234][872]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.23.59:279][872]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/StartBlink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/StartBlink.uasset" SILENT=true
+[2023.07.08-20.23.59:399][872]LogSavePackage: Moving output files for package: /Game/RaihanStuff/StartBlink
+[2023.07.08-20.23.59:399][872]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/StartBlinkDBCBC3B34F4763CEF9DE96BECA3FC81B.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/StartBlink.uasset'
+[2023.07.08-20.23.59:409][872]LogFileHelpers: InternalPromptForCheckoutAndSave took 174 ms (total: 2.81 sec)
+[2023.07.08-20.23.59:443][872]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/StartBlink.StartBlink took 0.034587 sec, no shader worker used.
+[2023.07.08-20.23.59:456][872]AssetCheck: New page: Asset Save: StartBlink
+[2023.07.08-20.23.59:456][872]LogContentValidation: Display: Validating /Script/Niagara.NiagaraSystem /Game/RaihanStuff/StartBlink.StartBlink
+[2023.07.08-20.23.59:456][872]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2023.07.08-20.23.59:456][872]LogNiagaraEditor: GPU shader compile skipped. Id 1
+[2023.07.08-20.24.01:878][986]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.24.01:885][986]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.24.01:885][986]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:24:01 pm)
+[2023.07.08-20.24.01:885][986]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.24.01:896][986]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010506s)
+[2023.07.08-20.24.01:896][986]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.010535s)
+[2023.07.08-20.24.01:896][986]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.24.01:897][986]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.24.01:897][986]LogPlayLevel: PIE: World Init took: (0.001558s)
+[2023.07.08-20.24.01:969][986]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.07.08-20.24.01:973][986]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2023.07.08-20.24.01:973][986]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.24.01:973][986]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.24.01:973][986]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.24.01:973][986]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.24.01:973][986]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.24.01:973][986]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.24.01:973][986]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.24.01:973][986]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.24.01:973][986]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.24.01:973][986]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.24.01:973][986]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.24.01:977][986]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.24.02:009][986]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.24.02:010][986]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.24.02:010][986]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.24.02:010][986]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.24.02:011][986]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=19
+[2023.07.08-20.24.02:011][986]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=19
+[2023.07.08-20.24.02:012][986]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=19
+[2023.07.08-20.24.02:012][986]LogInit: FAudioDevice initialized.
+[2023.07.08-20.24.02:012][986]LogAudio: Display: Audio Device (ID: 19) registered with world 'TestArea'.
+[2023.07.08-20.24.02:013][986]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=19
+[2023.07.08-20.24.02:016][986]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.24.02:019][986]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.24.02
+[2023.07.08-20.24.02:019][986]LogWorld: Bringing up level for play took: 0.003361
+[2023.07.08-20.24.02:025][986]LogOnline: OSS: Created online subsystem instance for: :Context_29
+[2023.07.08-20.24.02:029][986]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.24.02:030][986]PIE: Server logged in
+[2023.07.08-20.24.02:032][986]PIE: Play in editor total start time 0.147 seconds.
+[2023.07.08-20.24.06:339][113]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.24.06:340][113]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.24.06:345][113]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.24.59:721][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.24.59:723][310]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.24.59:731][310]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.24.59:739][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.24.59:776][310]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.24.59:785][310]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.24.59:838][310]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.08-20.24.59:847][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.07.08-20.24.59:850][310]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=19
+[2023.07.08-20.24.59:858][310]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.24.59:892][310]LogUObjectHash: Compacting FUObjectHashTables data took   2.55ms
+[2023.07.08-20.25.00:433][311]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.07.08-20.25.01:844][335]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.25.01:850][335]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.27.15:732][724]LogContentBrowser: Deferred new asset file creation: StartBlink1
+[2023.07.08-20.27.15:756][724]LogContentBrowser: Creating deferred item: StartBlink1
+[2023.07.08-20.27.15:774][725]LogContentBrowser: Renaming the item being created (Deferred Item: StartBlink1).
+[2023.07.08-20.27.24:739][262]LogContentBrowser: Attempting asset rename: StartBlink1 -> EndBlink
+[2023.07.08-20.27.24:862][262]LogContentBrowser: End creating deferred item StartBlink1
+[2023.07.08-20.27.24:877][262]LogNiagara: Compiling System NiagaraSystem /Game/RaihanStuff/EndBlink.EndBlink took 0.061992 sec, no shader worker used.
+[2023.07.08-20.27.25:714][311]LogShaderCompilers: Display: ================================================
+[2023.07.08-20.27.25:714][311]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.07.08-20.27.25:714][311]LogShaderCompilers: Display: Total job queries 311, among them cache hits 70 (22.51%)
+[2023.07.08-20.27.25:714][311]LogShaderCompilers: Display: Tracking 240 distinct input hashes that result in 184 distinct outputs (76.67%)
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: RAM used: 1.89 MB (0.00 GB) of 409.60 MB (0.40 GB) budget. Usage: 0.46%
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Shaders Compiled: 10
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Jobs assigned 10, completed 10 (100.00%)
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Average time worker was idle: 954.41 s
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.11 s
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Job execution time: average 0.52 s, max 0.82 s
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Job life time (pending + execution): average 0.58 s, max 0.83
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.88 s
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Jobs were issued in 10 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Average processing rate: 3.47 jobs/sec
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Total thread time: 2.28 s
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Total thread preprocess time: 0.04 s
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Percentage time preprocessing: 1.61%
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Effective parallelization: 0.79 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Top 1 most expensive shader types by average time:
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display:                                               FNiagaraShader (compiled   10 times, average 0.23 sec, max 0.48 sec, min 0.11 sec)
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display: Top 1 shader types by total compile time:
+[2023.07.08-20.27.25:715][311]LogShaderCompilers: Display:                                               FNiagaraShader - 100.00% of total time (compiled   10 times, average 0.23 sec, max 0.48 sec, min 0.11 sec)
+[2023.07.08-20.27.25:716][311]LogShaderCompilers: Display: ================================================
+[2023.07.08-20.29.01:564][710]BlueprintLog: New page: Compile AC_Blink
+[2023.07.08-20.29.01:657][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:663][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:664][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:761][710]LogUObjectHash: Compacting FUObjectHashTables data took   2.58ms
+[2023.07.08-20.29.01:783][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:787][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:789][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:791][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:792][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:794][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:800][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:803][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_6, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:804][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:808][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:809][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.01:812][710]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.02:460][747]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.07.08-20.29.02:514][747]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/RaihanStuff/AC_Blink" FILE="../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset" SILENT=true
+[2023.07.08-20.29.02:526][747]LogSavePackage: Moving output files for package: /Game/RaihanStuff/AC_Blink
+[2023.07.08-20.29.02:526][747]LogSavePackage: Moving '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Saved/AC_BlinkB875F93A4DD09BBDEC1C1FA5D9F03AAD.tmp' to '../../../../../../Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AC_Blink.uasset'
+[2023.07.08-20.29.02:532][747]LogFileHelpers: InternalPromptForCheckoutAndSave took 71 ms (total: 2.88 sec)
+[2023.07.08-20.29.02:542][747]AssetCheck: New page: Asset Save: AC_Blink
+[2023.07.08-20.29.02:542][747]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/RaihanStuff/AC_Blink.AC_Blink
+[2023.07.08-20.29.04:879][886]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.07.08-20.29.04:884][886]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.07.08-20.29.04:884][886]PIE: New page: PIE session: TestArea (9 Jul 2023, 12:29:04 pm)
+[2023.07.08-20.29.04:884][886]LogPlayLevel: Creating play world package: /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.29.04:893][886]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008194s)
+[2023.07.08-20.29.04:893][886]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/RaihanStuff/TestArea.TestArea to /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea (0.008225s)
+[2023.07.08-20.29.04:893][886]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.07.08-20.29.04:894][886]LogAIModule: Creating AISystem for world TestArea
+[2023.07.08-20.29.04:894][886]LogPlayLevel: PIE: World Init took: (0.000917s)
+[2023.07.08-20.29.04:947][886]LogUObjectHash: Compacting FUObjectHashTables data took   1.83ms
+[2023.07.08-20.29.04:951][886]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2023.07.08-20.29.04:951][886]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.07.08-20.29.04:951][886]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.07.08-20.29.04:951][886]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.07.08-20.29.04:951][886]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.07.08-20.29.04:951][886]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.07.08-20.29.04:951][886]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.07.08-20.29.04:951][886]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.07.08-20.29.04:951][886]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.07.08-20.29.04:951][886]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.07.08-20.29.04:951][886]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.07.08-20.29.04:951][886]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.07.08-20.29.04:953][886]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.07.08-20.29.04:986][886]LogAudioMixer: Display: Using Audio Hardware Device Headphones (Realtek(R) Audio)
+[2023.07.08-20.29.04:987][886]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.07.08-20.29.04:987][886]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.07.08-20.29.04:987][886]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.07.08-20.29.04:987][886]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=20
+[2023.07.08-20.29.04:987][886]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=20
+[2023.07.08-20.29.04:989][886]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=20
+[2023.07.08-20.29.04:989][886]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=20
+[2023.07.08-20.29.04:989][886]LogInit: FAudioDevice initialized.
+[2023.07.08-20.29.04:989][886]LogAudio: Display: Audio Device (ID: 20) registered with world 'TestArea'.
+[2023.07.08-20.29.05:049][886]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.29.05:052][886]LogLoad: Game class is 'BP_ThirdPersonGameMode_C'
+[2023.07.08-20.29.05:054][886]LogWorld: Bringing World /Game/RaihanStuff/UEDPIE_0_TestArea.TestArea up for play (max tick rate 60) at 2023.07.09-04.29.05
+[2023.07.08-20.29.05:054][886]LogWorld: Bringing up level for play took: 0.002315
+[2023.07.08-20.29.05:057][886]LogOnline: OSS: Created online subsystem instance for: :Context_30
+[2023.07.08-20.29.05:060][886]LogAIPerception: Warning: UAIPerceptionComponent::OnRegister: Perception Component is being registered with BP_ThirdPersonCharacter_C_0, they are designed to work with AAIControllers!
+[2023.07.08-20.29.05:063][886]PIE: Server logged in
+[2023.07.08-20.29.05:064][886]PIE: Play in editor total start time 0.18 seconds.
+[2023.07.08-20.29.05:099][886]LogViewport: Scene viewport resized to 895x702, mode Windowed.
+[2023.07.08-20.29.06:319][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Return Node Graph:  findHomingTarget Function:  Find Homing Target Blueprint:  spellSpawn
+[2023.07.08-20.29.06:319][927]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property HomingTarget". Node:  Set Velocity Graph:  EventGraph Function:  Execute Ubergraph Spell Spawn Blueprint:  spellSpawn
+[2023.07.08-20.29.06:319][927]LogBlueprintUserMessages: [BP_ThirdPersonCharacter_C_0] Attack Triggered
+[2023.07.08-20.29.26:652][141]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.07.08-20.29.26:652][141]LogWorld: BeginTearingDown for /Game/RaihanStuff/UEDPIE_0_TestArea
+[2023.07.08-20.29.26:654][141]LogSlate: Window 'fypGFProject Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.07.08-20.29.26:659][141]LogWorld: UWorld::CleanupWorld for TestArea, bSessionEnded=true, bCleanupResources=true
+[2023.07.08-20.29.26:660][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.29.26:667][141]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.07.08-20.29.26:679][141]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.07.08-20.29.26:738][141]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.07.08-20.29.26:738][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.07.08-20.29.26:740][141]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=20
+[2023.07.08-20.29.26:753][141]LogUObjectHash: Compacting FUObjectHashTables data took   2.67ms
+[2023.07.08-20.29.26:861][142]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.07.08-20.29.29:512][290]LogSlate: Window 'Message Log' being destroyed
+[2023.07.08-20.29.29:517][290]LogSlate: Window 'Message Log' being destroyed
