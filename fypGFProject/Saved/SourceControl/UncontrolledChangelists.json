@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/fypGFProject/fypGFProject/Content/TestLevel/World_Sculpt.umap",
+				"D:/fypGFProject/fypGFProject/Content/TestLevel/Sculpt_World.umap",
+				"D:/fypGFProject/fypGFProject/Content/TestLevel/Texture/NewMaterial.uasset",
+				"D:/fypGFProject/fypGFProject/Content/TestLevel/Texture/grass-field-watercolor-tileable-texture_uEmLJ79W_upscaled.uasset",
+				"D:/fypGFProject/fypGFProject/Content/TestLevel/Texture/NewMaterial_Inst.uasset",
 				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/P3/8KQKYUQ3JLDTCKAR270K0G.uasset"
 			]
 		}
