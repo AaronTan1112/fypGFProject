@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/AIMapTest/F/06/1B5ZMYWYE4T6ZE8W8X3VGQ.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/PropsTest/tree02_Material__C2.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/PropsTest/tree.uasset",
@@ -73,8 +76,7 @@
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/PropsTest/CelShadingMatO.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/Q3/16F09YSGLMW8B3VVS6Q7G3.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/SpellIndicator/SpellUI.uasset",
-				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/PropsTest/25temp.uasset",
-				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset"
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/PropsTest/25temp.uasset"
 			]
 		}
 	]
