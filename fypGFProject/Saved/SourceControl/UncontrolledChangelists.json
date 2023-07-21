@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/Dashv2/AC_Dash_A.uasset",
+				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/Enemy1NPC/e1_NPC_Cont.uasset",
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset",
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BPC_LotusSkill.uasset",
 				"C:/Users/User/Desktop/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
