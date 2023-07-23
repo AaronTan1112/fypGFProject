@@ -5,6 +5,13 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BPC_LotusSkill.uasset",
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BP_LotusSkill.uasset",
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BP_Summons.uasset",
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Maps/ZenWorld.umap",
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Input/Actions/IA_Skill2.uasset",
+				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Input/IMC_Default.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/GAS/Dashv2/AC_Dash_A.uasset",
 				"D:/Unreal Engine (IL)/UE (Project Locations)/fypGFProject/fypGFProject/Content/AI/Enemy1NPC/e1_NPC_Cont.uasset",
@@ -68,11 +75,7 @@
 				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/RaihanStuff/AutoAttackTrail.uasset",
 				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/GAS/PropsTest/treeMat2.uasset",
 				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/StarterContent/Materials/M_Metal_Gold.uasset",
-				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset",
-				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BPC_LotusSkill.uasset",
-				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
-				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BP_LotusSkill.uasset",
-				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BP_Summons.uasset"
+				"C:/Users/01329/OneDrive/Documents/GitHub/fypGFProject/fypGFProject/Content/JakeStuff/spellSpawn.uasset"
 			]
 		}
 	]
