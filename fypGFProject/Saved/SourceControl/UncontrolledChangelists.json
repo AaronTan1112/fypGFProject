@@ -5,6 +5,11 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BPC_LotusSkill.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/AI/Enemy1NPC/e1_NPC.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BP_Summons.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/9S/IM0AQZJ6JF3A59OC20VN0D.uasset",
+				"D:/Unreal Engine (IL)/UE_Project(IL)/fypGFProject/fypGFProject/Content/AI/Enemy1NPC/e1_NPC_Cont.uasset",
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BPC_LotusSkill.uasset",
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
 				"C:/Users/Admin/Documents/GitHub/fypGFProject/fypGFProject/Content/Blueprints/Lotus/BP_LotusSkill.uasset",
